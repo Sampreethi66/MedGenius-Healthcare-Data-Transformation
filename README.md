@@ -1,3 +1,5 @@
+[AWS Architecture Diagram]([https://github.com](https://miro.com/app/board/uXjVL_2cfL0=/))
+
 Comprehensive cloud-based data transformation project for healthcare analytics, leveraging AWS to enable secure and scalable data processing for structured, unstructured, and streaming data.
 Key Features:
 1.	Data Architecture and Migration:
