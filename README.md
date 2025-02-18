@@ -1,6 +1,7 @@
 MedGenius is a comprehensive cloud-based data transformation project for healthcare analytics. It leverages AWS to enable secure and scalable data processing for structured, unstructured, and streaming data.
 
-Features
+Features:
+
 Data Architecture and Migration: Migrates legacy systems to AWS and unifies various data types into a lakehouse architecture.
 
 Streaming Data Pipelines: Develops pipelines for medical device data and wearables.
